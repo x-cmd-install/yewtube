@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 118314,
       "digest": "sha256:8cb050bfcaccdd58bc056fa90e6b0c8bebbcd8e06fd03b98820a385942ea6940",
-      "download_count": 662,
+      "download_count": 667,
       "created_at": "2026-03-04T18:56:35Z",
       "updated_at": "2026-03-04T18:56:37Z",
       "browser_download_url": "https://github.com/mps-youtube/yewtube/releases/download/v2.13.1/yewtube-2.13.1-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 109034,
       "digest": "sha256:5e173433c5db16a7d2ff0ec0cb1201ebb50fa9997fcae272c14956610375257f",
-      "download_count": 305,
+      "download_count": 307,
       "created_at": "2026-03-04T18:56:37Z",
       "updated_at": "2026-03-04T18:56:38Z",
       "browser_download_url": "https://github.com/mps-youtube/yewtube/releases/download/v2.13.1/yewtube-2.13.1.tar.gz"
