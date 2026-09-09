@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 118314,
       "digest": "sha256:8cb050bfcaccdd58bc056fa90e6b0c8bebbcd8e06fd03b98820a385942ea6940",
-      "download_count": 667,
+      "download_count": 670,
       "created_at": "2026-03-04T18:56:35Z",
       "updated_at": "2026-03-04T18:56:37Z",
       "browser_download_url": "https://github.com/mps-youtube/yewtube/releases/download/v2.13.1/yewtube-2.13.1-py3-none-any.whl"
