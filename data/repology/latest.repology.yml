@@ -1,0 +1,202 @@
+- repo: aur
+  srcname: yewtube
+  binname: yewtube
+  visiblename: yewtube
+  version: 2.13.1
+  origversion: 2.13.1-1
+  status: newest
+  summary: Terminal-based YouTube player and downloader
+  maintainers:
+    - tecnotercio@aur
+  licenses:
+    - GPL3
+- repo: aur
+  srcname: yewtube-bin
+  binname: yewtube-bin
+  visiblename: yewtube-bin
+  version: 2.13.1
+  origversion: 2.13.1-1
+  status: newest
+  summary: Terminal-based YouTube player and downloader
+  maintainers:
+    - noureddinex@aur
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: yewtube-git
+  binname: yewtube-git
+  visiblename: yewtube-git
+  version: 2.12.1.r1.g81f7a65
+  origversion: 2.12.1.r1.g81f7a65-1
+  status: rolling
+  summary: Terminal based YouTube player and downloader. No Youtube API key required.
+  maintainers:
+    - yar@aur
+  licenses:
+    - GPL3
+- repo: homebrew
+  srcname: yewtube
+  visiblename: yewtube
+  version: 2.13.1
+  origversion: null
+  status: newest
+  summary: Terminal based YouTube player and downloader
+- repo: homebrew
+  srcname: yewtube
+  visiblename: yewtube
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal based YouTube player and downloader
+- repo: liguros_stable
+  srcname: media-sound/yewtube
+  visiblename: media-sound/yewtube
+  version: 2.12.0
+  origversion: null
+  status: outdated
+  summary: Terminal-based YouTube player and downloader
+  maintainers:
+    - gonegrier.duarte@gmail.com
+  licenses:
+    - GPL-3+
+  categories:
+    - media-sound
+- repo: liguros_stable
+  srcname: media-sound/yewtube
+  visiblename: media-sound/yewtube
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Terminal-based YouTube player and downloader
+  maintainers:
+    - gonegrier.duarte@gmail.com
+  licenses:
+    - GPL-3+
+  categories:
+    - media-sound
+- repo: macports
+  srcname: net/yewtube
+  binname: yewtube
+  visiblename: yewtube
+  version: 2.12.0
+  origversion: null
+  status: outdated
+  summary: Terminal-based YouTube player and downloader
+  maintainers:
+    - nomaintainer@macports.org
+  licenses:
+    - GPL-3
+  categories:
+    - net
+- repo: nix_stable_24_05
+  srcname: yewtube
+  visiblename: yewtube
+  version: 2.10.5
+  origversion: null
+  status: outdated
+  summary: Terminal based YouTube player and downloader, forked from mps-youtube
+  maintainers:
+    - fgaz@fgaz.me
+    - koral@mailoo.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_24_11
+  srcname: yewtube
+  visiblename: yewtube
+  version: 2.12.1
+  origversion: null
+  status: outdated
+  summary: Terminal based YouTube player and downloader, forked from mps-youtube
+  maintainers:
+    - fgaz@fgaz.me
+    - koral@mailoo.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: yewtube
+  visiblename: yewtube
+  version: 2.12.1
+  origversion: null
+  status: outdated
+  summary: Terminal based YouTube player and downloader, forked from mps-youtube
+  maintainers:
+    - fgaz@fgaz.me
+    - koral@mailoo.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_11
+  srcname: yewtube
+  visiblename: yewtube
+  version: 2.12.1
+  origversion: null
+  status: outdated
+  summary: Terminal based YouTube player and downloader, forked from mps-youtube
+  maintainers:
+    - fgaz@fgaz.me
+    - koral@mailoo.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: yewtube
+  visiblename: yewtube
+  version: 2.13.1
+  origversion: null
+  status: newest
+  summary: Terminal based YouTube player and downloader, forked from mps-youtube
+  maintainers:
+    - fgaz@fgaz.me
+    - koral@mailoo.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_unstable
+  srcname: yewtube
+  visiblename: yewtube
+  version: 2.13.1
+  origversion: null
+  status: newest
+  summary: Terminal based YouTube player and downloader, forked from mps-youtube
+  maintainers:
+    - fgaz@fgaz.me
+    - koral@mailoo.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: solus
+  srcname: yewtube
+  binname: yewtube
+  visiblename: yewtube
+  version: 2.13.1
+  origversion: null
+  status: newest
+  summary: Terminal based YouTube jukebox with playlist management
+  maintainers:
+    - josephriches@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - multimedia.audio
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: yewtube
+  binname: yewtube
+  visiblename: yewtube
+  version: 2.12.0
+  origversion: 2.12.0_3
+  status: outdated
+  summary: Terminal based YouTube player and downloader
+  maintainers:
+    - pangolin@vivaldi.net
+  licenses:
+    - GPL-3.0-or-later
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: yewtube
+  binname: mps-youtube
+  visiblename: mps-youtube
+  version: 2.12.0
+  origversion: 2.12.0_3
+  status: outdated
+  summary: Terminal based YouTube player and downloader (transitional dummy package)
+  maintainers:
+    - pangolin@vivaldi.net
+  licenses:
+    - GPL-3.0-or-later
