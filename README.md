@@ -37,7 +37,7 @@ Total: **7,188** lines of code across **86** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,790 · **Forks**: 671 · **Open issues**: 1,051 · **Contributors**: 97
+- **Stars**: 8,790 · **Forks**: 670 · **Open issues**: 1,051 · **Contributors**: 97
 
 ## Totals (cumulative)
 
@@ -80,4 +80,4 @@ Install metadata for yewtube lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:19:04Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:49:41Z._
