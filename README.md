@@ -37,7 +37,7 @@ Total: **7,188** lines of code across **86** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,791 · **Forks**: 670 · **Open issues**: 1,051 · **Contributors**: 97
+- **Stars**: 8,790 · **Forks**: 670 · **Open issues**: 1,051 · **Contributors**: 97
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,188** lines of code across **86** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 2 | 1 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 2 | 1 | 2 | 0 |
-| last180d | 2026-03-17 | 0 | 0 | 4 | 1 | 8 | 0 |
-| 360d | 2025-09-18 | 1 | 1 | 6 | 5 | 13 | 5 |
-| last720d | 2024-09-23 | 1 | 4 | 6 | 24 | 24 | 10 |
+| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 2 | 1 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 2 | 1 | 2 | 0 |
+| last180d | 2026-03-18 | 0 | 0 | 4 | 1 | 8 | 0 |
+| 360d | 2025-09-19 | 1 | 1 | 6 | 5 | 13 | 5 |
+| last720d | 2024-09-24 | 1 | 4 | 6 | 24 | 24 | 10 |
 
 ## Release assets
 
@@ -60,16 +60,6 @@ Total: **7,188** lines of code across **86** files in the top 5 languages.
 |-------|-----:|--------|
 | [yewtube-2.13.1-py3-none-any.whl](https://github.com/mps-youtube/yewtube/releases/download/v2.13.1/yewtube-2.13.1-py3-none-any.whl) | 115.5 KiB | `other` |
 | [yewtube-2.13.1.tar.gz](https://github.com/mps-youtube/yewtube/releases/download/v2.13.1/yewtube-2.13.1.tar.gz) | 106.5 KiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/yewtube). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.13.1` | ✅ latest |
-| Nix unstable | `2.13.1` | ✅ latest |
-| Void | `2.12.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -80,4 +70,4 @@ Install metadata for yewtube lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:15:11Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:34:10Z._
