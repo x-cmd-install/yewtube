@@ -4,7 +4,7 @@
 
 yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 
-![yewtube](https://repo.x-cmd.io/yewtube.svg)
+[![x-cmd/install — yewtube Code Quality Monitoring Repo Card](https://repo.x-cmd.io/yewtube.svg)](https://x-cmd.com/install/yewtube)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **7,188** lines of code across **86** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,791 · **Forks**: 670 · **Open issues**: 1,051 · **Contributors**: 97
+- **Stars**: 8,792 · **Forks**: 670 · **Open issues**: 1,051 · **Contributors**: 97
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,188** lines of code across **86** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 2 | 1 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 2 | 1 | 2 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 3 | 1 | 7 | 0 |
-| 360d | 2025-09-23 | 1 | 1 | 6 | 5 | 13 | 5 |
-| last720d | 2024-09-28 | 1 | 4 | 6 | 24 | 24 | 10 |
+| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 2 | 1 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 2 | 1 | 2 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 3 | 1 | 7 | 0 |
+| 360d | 2025-09-25 | 1 | 1 | 6 | 4 | 13 | 5 |
+| last720d | 2024-09-30 | 1 | 4 | 6 | 24 | 24 | 10 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for yewtube lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:13:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:22:08Z._
