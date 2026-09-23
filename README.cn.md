@@ -4,7 +4,7 @@
 
 yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 
-[![x-cmd/install — yewtube Code Quality Monitoring Repo Card](https://repo.x-cmd.io/yewtube.svg?lang=zh)](https://x-cmd.com/install/yewtube)
+[![x-cmd/install — yewtube Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/yewtube.svg?lang=zh)](https://x-cmd.com/install/yewtube)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install yewtube
 
 ## 流行度
 
-- **Star**: 8,791 · **Fork**: 670 · **开放 issue**: 1,051 · **贡献者**: 97
+- **Star**: 8,792 · **Fork**: 670 · **开放 issue**: 1,051 · **贡献者**: 97
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install yewtube
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 2 | 1 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 2 | 1 | 1 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 3 | 1 | 7 | 0 |
-| 360d | 2025-09-27 | 1 | 1 | 6 | 4 | 13 | 5 |
-| last720d | 2024-10-02 | 1 | 4 | 6 | 24 | 24 | 10 |
+| 30d | 2026-08-24 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 2 | 1 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 2 | 1 | 1 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 3 | 1 | 7 | 0 |
+| 360d | 2025-09-28 | 1 | 1 | 6 | 4 | 13 | 5 |
+| last720d | 2024-10-03 | 1 | 4 | 6 | 23 | 24 | 10 |
 
 ## Release 资产
 
@@ -70,4 +70,4 @@ yewtube 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:25:08Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:22:57Z._
